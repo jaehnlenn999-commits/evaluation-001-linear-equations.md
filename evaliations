@@ -10,6 +10,7 @@ The AI incorrectly concluded that x = 1.
 
 ## Evaluation
 
+
 | Criterion | Score |
 |---|---:|
 | Accuracy | 1/5 |
